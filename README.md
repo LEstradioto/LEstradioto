@@ -25,7 +25,10 @@ HTML - CSS - Git - Linux - Native Brazilian Portuguese - Photoshop - Figma - Rhi
 ## Latest Posts
 
 <!-- START POSTS -->
-
+- [My first Bounty and counting](https://luanestradioto.com/blog/my-first-bounty-and-counting)
+- [Setting up Devise + Acts As Tenant + Scoped Subdomains](https://luanestradioto.com/blog/setting-up-devise-acts-as-tenant-scoped-subdomains)
+- [Handling Memory Leaks in Puppeteer on WSL2](https://luanestradioto.com/blog/handling-memory-leaks-in-puppeteer-on-wsl2)
+- [How to setup a simple blog with Nuxt.js](https://luanestradioto.com/blog/how-to-setup-a-simple-blog-with-nuxtjs)
 <!-- END POSTS -->
 
 [More Blog Posts...](https://luanestradioto.com/blog)
