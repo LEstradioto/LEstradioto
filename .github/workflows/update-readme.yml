@@ -3,6 +3,7 @@ name: Update README with Sitemap
 on:
   schedule:
     - cron: '0 0 */15 * *' # Runs at midnight every 15 days
+  workflow_dispatch:
 
 jobs:
   update-readme:
