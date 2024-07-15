@@ -2,24 +2,25 @@
 
 ---
 
-### I'm a Full Stack Developer, Husband and Father
+[![trophy](https://github-profile-trophy.vercel.app/?username=LEstradioto)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### contributing to FOSS, bounty-hunting, some side projects and looking for a job!
+## Full Stack Developer, Husband and Father
+
+### contributing to open source, bounty-hunting, some side projects, send me an email if you want to chat!
 
 ---
 
 Current coding with:
 
-<img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" />
+<img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" />
 
 Learning:
 
-<img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" />
+<img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
 
 Skills:
 
-
-HTML - CSS - Git - Linux - Native Brazilian Portuguese - Photoshop - Figma - Rhinoceros - AutoCAD - Javascript - Vue - React - Node.js - Ruby - Rails - Hotwire - PHP - Wordpress - Woocommerce - Advanced English - SQL - SQLite - MySQL - PostgreSQL - Sequelize - AWS - Docker - HestiaCP - Coolify - OpenAI - LLM - many more incoming...
+HTML - CSS - Git - Linux - Native Brazilian Portuguese - Photoshop - Figma - Rhinoceros - AutoCAD - Javascript - Vue - React - Node.js - Ruby - Rails - Hotwire - PHP - Wordpress - Woocommerce - Advanced English - SQL - SQLite - MySQL - PostgreSQL - Sequelize - AWS - Docker - HestiaCP - Coolify - OpenAI - LLM - etc...
 
 
 ## Latest Posts
