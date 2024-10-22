@@ -6,7 +6,7 @@
 
 ## Full Stack Developer, Husband and Father
 
-### contributing to open source, bounty-hunting, some side projects, send me an email if you want to chat!
+### Open source contributor to Coolify | Upwork freelancer | Passionate about side projects | Always open to interesting conversations - feel free to reach out!
 
 ---
 
