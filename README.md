@@ -26,10 +26,10 @@ HTML - CSS - Git - Linux - Native Brazilian Portuguese - Photoshop - Figma - Rhi
 ## Latest Posts
 
 <!-- START POSTS -->
+- [Password protected checker for PDF, DOC and DOCX files](https://luanestradioto.com/blog/password-protected-checker-for-pdf-doc-docx-files)
 - [Fully functioning terminal on Coolify](https://luanestradioto.com/blog/fully-functioning-terminal-on-coolify)
-- [My first Bounty and counting](https://luanestradioto.com/blog/my-first-bounty-and-counting-copy-2)
+- [My first Bounty and counting](https://luanestradioto.com/blog/my-first-bounty-and-counting)
 - [Setting up Devise + Acts As Tenant + Scoped Subdomains](https://luanestradioto.com/blog/setting-up-devise-acts-as-tenant-scoped-subdomains)
-- [Handling Memory Leaks in Puppeteer on WSL2](https://luanestradioto.com/blog/handling-memory-leaks-in-puppeteer-on-wsl2)
 <!-- END POSTS -->
 
 [More Blog Posts...](https://luanestradioto.com/blog)
