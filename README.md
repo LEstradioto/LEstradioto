@@ -6,30 +6,30 @@
 
 ## Full Stack Developer, Husband and Father
 
-### Open source contributor to Coolify | Upwork freelancer | Passionate about side projects | Always open to interesting conversations - feel free to reach out!
+### Upwork freelancing | feel free to reach out!
 
 ---
 
 Current coding with:
 
-<img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" />
+<img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" />
 
-Learning:
+Learning (or trying to 🤣):
 
 <img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
 
 Skills:
 
-HTML - CSS - Git - Linux - Native Brazilian Portuguese - Photoshop - Figma - Rhinoceros - AutoCAD - Javascript - Vue - React - Node.js - Ruby - Rails - Hotwire - PHP - Wordpress - Woocommerce - Advanced English - SQL - SQLite - MySQL - PostgreSQL - Sequelize - AWS - Docker - HestiaCP - Coolify - OpenAI - LLM - etc...
+HTML - CSS - Git - Linux - Photoshop - Figma - Rhinoceros - AutoCAD - Javascript - Vue - React - Node.js - Ruby - Rails - Hotwire - PHP - Wordpress - Woocommerce - SQL - SQLite - MySQL - PostgreSQL - Sequelize - AWS - Docker - HestiaCP - Coolify - OpenAI - LLM - etc...
 
 
 ## Latest Posts
 
 <!-- START POSTS -->
-- [Password protected checker for PDF, DOC and DOCX files](https://luanestradioto.com/blog/password-protected-checker-for-pdf-doc-docx-files)
+- [Exploring Vibe Coding: A Dive into Building a Game with 99% AI](https://luanestradioto.com/blog/exploring-vibe-coding-a-tower-defense-experiment)
+- [Password protected checker for PDF, DOC and DOCX files](https://luanestradioto.com/blog/password-protected-checker-for-pdf-doc-docx-files-copy)
 - [Fully functioning terminal on Coolify](https://luanestradioto.com/blog/fully-functioning-terminal-on-coolify)
 - [My first Bounty and counting](https://luanestradioto.com/blog/my-first-bounty-and-counting)
-- [Setting up Devise + Acts As Tenant + Scoped Subdomains](https://luanestradioto.com/blog/setting-up-devise-acts-as-tenant-scoped-subdomains)
 <!-- END POSTS -->
 
 [More Blog Posts...](https://luanestradioto.com/blog)
