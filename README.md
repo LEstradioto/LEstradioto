@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=24&pause=0&color=00F706&random=false&width=435&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=LEstradioto)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -37,3 +35,5 @@ I am learning:
 ![Lestra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestradioto&show_icons=true&theme=tokyonight)
 
 </details>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=24&pause=0&color=00F706&random=false&width=435&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
