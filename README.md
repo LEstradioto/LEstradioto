@@ -9,9 +9,7 @@ I have professional experience, contributed to open source, or built side projec
 
 I am learning:
 
-<img src="https://img.shields.io/badge/C-black?logo=C" height="35px" />
-<img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
-
+<img src="https://img.shields.io/badge/C-black?logo=C" height="35px" /> <img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
 
 
 ## Latest Posts
