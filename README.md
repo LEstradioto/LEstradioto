@@ -1,26 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=32&pause=1000&color=00F706&random=false&width=435&lines=Hey%2C+there!;Thanks+for+visiting!)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=24&pause=0&color=00F706&random=false&width=435&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LEstradioto)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Full Stack Developer, Husband and Father
-
-### Upwork freelancing | feel free to reach out!
-
 ---
 
-Current coding with:
+I have professional experience, contributed to open source, or built side projects with the following technologies:
 
-<img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" />
+<img src="https://img.shields.io/badge/Ruby-black?logo=ruby" height="35px" /> <img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/PHP-black?logo=php" height="35px" /> <img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Javascript-black?logo=javascript" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" /> <img src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/AWS-black?logo=amazonaws" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" /> <img src="https://img.shields.io/badge/Coolify-black?logo=coolify" height="35px" /> <img src="https://img.shields.io/badge/HestiaCP-black?logo=hestiacp" height="35px" /> <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql" height="35px" /> <img src="https://img.shields.io/badge/MySQL-black?logo=mysql" height="35px" /> <img src="https://img.shields.io/badge/SQLite-black?logo=sqlite" height="35px" /> <img src="https://img.shields.io/badge/SQL-black?logo=sql" height="35px" /> <img src="https://img.shields.io/badge/Sequelize-black?logo=sequelize" height="35px" /> <img src="https://img.shields.io/badge/Git-black?logo=git" height="35px" /> <img src="https://img.shields.io/badge/Linux-black?logo=linux" height="35px" /> <img src="https://img.shields.io/badge/Wordpress-black?logo=wordpress" height="35px" /> <img src="https://img.shields.io/badge/Woocommerce-black?logo=woocommerce" height="35px" /> <img src="https://img.shields.io/badge/OpenAI-black?logo=openai" height="35px" /> <img src="https://img.shields.io/badge/LLM-black" height="35px" /> <img src="https://img.shields.io/badge/HTML-black?logo=html5" height="35px" /> <img src="https://img.shields.io/badge/CSS-black?logo=css3" height="35px" /> <img src="https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop" height="35px" /> <img src="https://img.shields.io/badge/Figma-black?logo=figma" height="35px" /> <img src="https://img.shields.io/badge/Rhinoceros-black?logo=rhinoceros" height="35px" /> <img src="https://img.shields.io/badge/AutoCAD-black?logo=autodesk" height="35px" />
 
-Learning (or trying to 🤣):
 
-<img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
+I am learning:
 
-Skills:
+<img src="https://img.shields.io/badge/C-black?logo=C" height="35px" />
+<img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
 
-HTML - CSS - Git - Linux - Photoshop - Figma - Rhinoceros - AutoCAD - Javascript - Vue - React - Node.js - Ruby - Rails - Hotwire - PHP - Wordpress - Woocommerce - SQL - SQLite - MySQL - PostgreSQL - Sequelize - AWS - Docker - HestiaCP - Coolify - OpenAI - LLM - etc...
 
 
 ## Latest Posts
