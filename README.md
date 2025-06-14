@@ -15,10 +15,10 @@ I am learning:
 ## Latest Posts
 
 <!-- START POSTS -->
+- [Watch Out for Lazy-Loaded Images When Anchor Scrolling](https://luanestradioto.com/blog/watch-out-for-lazy-loads-images-when-anchor-scrolling)
 - [Exploring Vibe Coding: A Dive into Building a Game with 99% AI](https://luanestradioto.com/blog/exploring-vibe-coding-a-tower-defense-experiment)
 - [Password protected checker for PDF, DOC and DOCX files](https://luanestradioto.com/blog/password-protected-checker-for-pdf-doc-docx-files-copy)
 - [Fully functioning terminal on Coolify](https://luanestradioto.com/blog/fully-functioning-terminal-on-coolify)
-- [My first Bounty and counting](https://luanestradioto.com/blog/my-first-bounty-and-counting)
 <!-- END POSTS -->
 
 [More Blog Posts...](https://luanestradioto.com/blog)
