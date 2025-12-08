@@ -16,7 +16,8 @@ function parseSitemap(xml) {
       if (err) reject(err);
       const urls = result.urlset.url.map(entry => ({
         url: entry.loc[0],
-        title: entry["news:news"] ? entry["news:news"][0]["news:title"][0] : null
+        title: entry["news:news"] ? entry["news:news"][0]["news:title"][0] : null,
+        date: entry["news:news"] ? entry["news:news"][0]["news:publication_date"][0] : null
       }));
       resolve(urls);
     });
@@ -24,7 +25,12 @@ function parseSitemap(xml) {
 }
 
 function formatNewsItems(urls) {
-  return urls.slice(0, 4).map(entry => `- [${entry.title}](${entry.url})`).join('\n');
+  return urls
+    .filter(entry => entry.date)
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 4)
+    .map(entry => `- [${entry.title}](${entry.url})`)
+    .join('\n');
 }
 
 function updateReadme(newsItems) {
