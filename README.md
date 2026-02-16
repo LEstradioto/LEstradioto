@@ -15,10 +15,10 @@ I am learning:
 ## Latest Posts
 
 <!-- START POSTS -->
+- [Joining the OpenClaw Trend: Securing AI Agents and Sleeping Better](https://luanestradioto.com/blog/openclaw-securing-ai-agents-on-a-disposable-linux-box)
 - [Resetting Location Permissions on macOS for Xcode Testing](https://luanestradioto.com/blog/resetting-location-permissions-macos-xcode-testing)
 - [Watch Out for Lazy-Loaded Images When Anchor Scrolling](https://luanestradioto.com/blog/watch-out-for-lazy-loads-images-when-anchor-scrolling)
 - [Exploring Vibe Coding: A Dive into Building a Game with 99% AI](https://luanestradioto.com/blog/exploring-vibe-coding-a-tower-defense-experiment)
-- [Password protected checker for PDF, DOC and DOCX files](https://luanestradioto.com/blog/password-protected-checker-for-pdf-doc-docx-files-copy)
 <!-- END POSTS -->
 
 [More Blog Posts...](https://luanestradioto.com/blog)
