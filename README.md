@@ -2,14 +2,19 @@
 
 ---
 
-I have professional experience, contributed to open source, or built side projects with the following technologies:
+Full stack developer focused on frontend, going deep on AI agents and automation. I run my own [OpenClaw](https://openclaw.ai) Klanker with ~6 agents handling task lists, calendar, mail filtering, news curation, docs, coding, and more. Always testing the latest models as they drop, Claude, OpenAI, Gemini, whatever comes next. Open source contributor.
 
-<img src="https://img.shields.io/badge/Ruby-black?logo=ruby" height="35px" /> <img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/PHP-black?logo=php" height="35px" /> <img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/Javascript-black?logo=javascript" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" /> <img src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/AWS-black?logo=amazonaws" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" /> <img src="https://img.shields.io/badge/Coolify-black?logo=coolify" height="35px" /> <img src="https://img.shields.io/badge/HestiaCP-black?logo=hestiacp" height="35px" /> <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql" height="35px" /> <img src="https://img.shields.io/badge/MySQL-black?logo=mysql" height="35px" /> <img src="https://img.shields.io/badge/SQLite-black?logo=sqlite" height="35px" /> <img src="https://img.shields.io/badge/SQL-black?logo=sql" height="35px" /> <img src="https://img.shields.io/badge/Sequelize-black?logo=sequelize" height="35px" /> <img src="https://img.shields.io/badge/Git-black?logo=git" height="35px" /> <img src="https://img.shields.io/badge/Linux-black?logo=linux" height="35px" /> <img src="https://img.shields.io/badge/Wordpress-black?logo=wordpress" height="35px" /> <img src="https://img.shields.io/badge/Woocommerce-black?logo=woocommerce" height="35px" /> <img src="https://img.shields.io/badge/OpenAI-black?logo=openai" height="35px" /> <img src="https://img.shields.io/badge/LLM-black" height="35px" /> <img src="https://img.shields.io/badge/HTML-black?logo=html5" height="35px" /> <img src="https://img.shields.io/badge/CSS-black?logo=css3" height="35px" /> <img src="https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop" height="35px" /> <img src="https://img.shields.io/badge/Figma-black?logo=figma" height="35px" /> <img src="https://img.shields.io/badge/Rhinoceros-black?logo=rhinoceros" height="35px" /> <img src="https://img.shields.io/badge/AutoCAD-black?logo=autodesk" height="35px" />
+### AI & Automation
 
+<img src="https://img.shields.io/badge/Claude-black?logo=anthropic" height="35px" /> <img src="https://img.shields.io/badge/OpenAI-black?logo=openai" height="35px" /> <img src="https://img.shields.io/badge/Gemini-black?logo=googlegemini" height="35px" /> <img src="https://img.shields.io/badge/AI_Agents-black" height="35px" /> <img src="https://img.shields.io/badge/OpenClaw-black" height="35px" /> <img src="https://img.shields.io/badge/LLM-black" height="35px" /> <img src="https://img.shields.io/badge/Browser_Automation-black" height="35px" />
 
-I am learning:
+### Web Development
 
-<img src="https://img.shields.io/badge/C-black?logo=C" height="35px" /> <img src="https://img.shields.io/badge/Rust-black?logo=rust" height="35px" /> <img src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes" height="35px" />
+<img src="https://img.shields.io/badge/Javascript-black?logo=javascript" height="35px" /> <img src="https://img.shields.io/badge/Vue-black?logo=vuedotjs" height="35px" /> <img src="https://img.shields.io/badge/React-black?logo=react" height="35px" /> <img src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs" height="35px" /> <img src="https://img.shields.io/badge/Ruby-black?logo=ruby" height="35px" /> <img src="https://img.shields.io/badge/Rails-black?logo=rubyonrails&logoColor=darkred" height="35px" /> <img src="https://img.shields.io/badge/Hotwire-black?logo=hotwire" height="35px" /> <img src="https://img.shields.io/badge/PHP-black?logo=php" height="35px" /> <img src="https://img.shields.io/badge/Laravel-black?logo=laravel" height="35px" /> <img src="https://img.shields.io/badge/HTML-black?logo=html5" height="35px" /> <img src="https://img.shields.io/badge/CSS-black?logo=css3" height="35px" />
+
+### Infrastructure & Data
+
+<img src="https://img.shields.io/badge/AWS-black?logo=amazonaws" height="35px" /> <img src="https://img.shields.io/badge/Docker-black?logo=docker" height="35px" /> <img src="https://img.shields.io/badge/Coolify-black?logo=coolify" height="35px" /> <img src="https://img.shields.io/badge/Linux-black?logo=linux" height="35px" /> <img src="https://img.shields.io/badge/Git-black?logo=git" height="35px" /> <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql" height="35px" /> <img src="https://img.shields.io/badge/MySQL-black?logo=mysql" height="35px" />
 
 
 ## Latest Posts
@@ -18,7 +23,7 @@ I am learning:
 - [Joining the OpenClaw Trend: Securing AI Agents and Sleeping Better](https://luanestradioto.com/blog/openclaw-securing-ai-agents-on-a-disposable-linux-box)
 - [Resetting Location Permissions on macOS for Xcode Testing](https://luanestradioto.com/blog/resetting-location-permissions-macos-xcode-testing)
 - [Watch Out for Lazy-Loaded Images When Anchor Scrolling](https://luanestradioto.com/blog/watch-out-for-lazy-loads-images-when-anchor-scrolling)
-- [Exploring Vibe Coding: A Dive into Building a Game with 99% AI](https://luanestradioto.com/blog/exploring-vibe-coding-a-tower-defense-experiment)
+- [Vibe Coding: Building a Tower Defense Game with 99% AI](https://luanestradioto.com/blog/exploring-vibe-coding-a-tower-defense-experiment)
 <!-- END POSTS -->
 
 [More Blog Posts...](https://luanestradioto.com/blog)
