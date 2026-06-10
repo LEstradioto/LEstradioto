@@ -2,11 +2,11 @@
 
 ---
 
-Full stack developer focused on frontend, going deep on AI agents and automation. I run my own [OpenClaw](https://openclaw.ai) Klanker with ~6 agents handling task lists, calendar, mail filtering, news curation, docs, coding, and more. Always testing the latest models as they drop, Claude, OpenAI, Gemini, whatever comes next. Open source contributor.
+Full stack developer and founder of [Cosmos Factor](https://cosmosfactor.com), a small independent software studio in Curitiba, Brazil. Currently building [Contra Glosa](https://contraglosa.com.br) (AI-drafted appeals for denied medical claims, running in production), **WiFi Tracker** (local-first time tracking for macOS), and [vrtini](https://github.com/LEstradioto/vrtini) (open-source visual regression testing with Playwright + AI). Deep into AI agents and automation — always testing the latest models as they drop, Claude, OpenAI, Gemini, whatever comes next. Open source contributor, and open to select freelance projects — reach out below.
 
 ### AI & Automation
 
-<img src="https://img.shields.io/badge/Claude-black?logo=anthropic" height="35px" /> <img src="https://img.shields.io/badge/OpenAI-black?logo=openai" height="35px" /> <img src="https://img.shields.io/badge/Gemini-black?logo=googlegemini" height="35px" /> <img src="https://img.shields.io/badge/AI_Agents-black" height="35px" /> <img src="https://img.shields.io/badge/OpenClaw-black" height="35px" /> <img src="https://img.shields.io/badge/LLM-black" height="35px" /> <img src="https://img.shields.io/badge/Browser_Automation-black" height="35px" />
+<img src="https://img.shields.io/badge/Claude-black?logo=anthropic" height="35px" /> <img src="https://img.shields.io/badge/OpenAI-black?logo=openai" height="35px" /> <img src="https://img.shields.io/badge/Gemini-black?logo=googlegemini" height="35px" /> <img src="https://img.shields.io/badge/AI_Agents-black" height="35px" /> <img src="https://img.shields.io/badge/LLM-black" height="35px" /> <img src="https://img.shields.io/badge/Browser_Automation-black" height="35px" />
 
 ### Web Development
 
